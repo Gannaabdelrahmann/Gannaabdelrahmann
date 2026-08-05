@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Ganna Mohamed Abdelrahman
+# 🛡️ Ganna Abdelrahman
 
 ### Cybersecurity Student • SOC Analyst • Cloud Security
 
@@ -26,7 +26,7 @@ Learning • Building • Defending
 # 🟢 Current Status
 
 ```yaml
-Name: Ganna Mohamed Abdelrahman
+Name: Ganna Abdelrahman
 
 Role:
   - Cybersecurity Student
@@ -168,15 +168,9 @@ Current Mission
 
 # 📜 Certifications
 
-🏆 HCIA Cyber Security
+🏆  AMIT SOC Analyst Tier 1 
 
-🏆 AMIT SOC Analyst Tier 1
-
-🏆 NTI Cybersecurity Academy
-
-🏆 Sprints × Microsoft Cybersecurity
-
-🏆 AWS Security Cloud Computing (DEPI)
+🏆  NTI Cybersecurity Academy
 
 ---
 
