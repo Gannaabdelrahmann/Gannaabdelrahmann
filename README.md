@@ -15,10 +15,6 @@
 Security Operations Console
 ```
 
-──────────────────────────────────────────────
-Learning • Building • Defending
-──────────────────────────────────────────────
-
 </div>
 
 ---
